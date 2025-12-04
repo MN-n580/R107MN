@@ -22,6 +22,8 @@ for j in range(len(liste)):
 
 print(f"L'élément le plus présent est {liste[max]} qui apparait {nmax} fois")
 
+
+
 # seconde méthode
 max = 0
 nmax = liste.count(liste[0])
